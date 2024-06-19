@@ -21,11 +21,11 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI1MjgxODU4NzQ3NTc3MTQxMw.GCBjMC.6-rpC6la1_P-RAM6cUbttUfnR2rmLPjAYJbClM",
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb://103.216.158.104:27017/discrodbot",
   status: 'GlaceYT',
   commandsDir: './commands',
   language: "en",
